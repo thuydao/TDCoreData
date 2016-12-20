@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TDCoreData
 
 [![CI Status](http://img.shields.io/travis/Anonymous/TDCoreData.svg?style=flat)](https://travis-ci.org/Anonymous/TDCoreData)
@@ -27,3 +28,6 @@ Anonymous, daoduythuy@gmail.com
 ## License
 
 TDCoreData is available under the MIT license. See the LICENSE file for more info.
+=======
+# TDCoreData
+>>>>>>> abf3ae06856410fd3ec2a9612e53532af6577958
