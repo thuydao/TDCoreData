@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TDCoreData_Example' do
+  pod 'TDCoreData', :path => '../'
+
+  target 'TDCoreData_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
