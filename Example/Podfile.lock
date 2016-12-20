@@ -1,0 +1,21 @@
+PODS:
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - TDCoreData (0.1.0):
+    - MagicalRecord
+
+DEPENDENCIES:
+  - TDCoreData (from `../`)
+
+EXTERNAL SOURCES:
+  TDCoreData:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  TDCoreData: f08fa0d43cc3db47efeddf0cc3fc5d3640faf30d
+
+PODFILE CHECKSUM: 592cf9eb3502c26a7277198b7fc8bf9939a8a5b2
+
+COCOAPODS: 1.2.0.beta.1

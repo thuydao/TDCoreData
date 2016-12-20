@@ -1,0 +1,6 @@
+framework module Pods_TDCoreData_Tests {
+  umbrella header "Pods-TDCoreData_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
